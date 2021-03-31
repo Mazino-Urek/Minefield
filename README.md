@@ -1,2 +1,0 @@
-# Minefield
-Data Science Playground
